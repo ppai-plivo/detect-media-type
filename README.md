@@ -1,5 +1,10 @@
 # detect-media-type
 
+**Install:**
+
+You can download built binaries for Mac and Linux from the
+[releases](https://github.com/ppai-plivo/detect-media-type/releases) page.
+
 **Usage:**
 
 File:
